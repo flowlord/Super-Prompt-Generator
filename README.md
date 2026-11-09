@@ -1,1 +1,1 @@
-[Super Prompt Generator]([https://dillinger.io](https://spg.solaryn.fr/index.html)
+[Super Prompt Generator](https://spg.solaryn.fr/index.html)
